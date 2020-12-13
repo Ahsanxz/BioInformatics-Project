@@ -1,0 +1,38 @@
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\bin\Debug\netcoreapp3.1\bioProject.exe
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\bin\Debug\netcoreapp3.1\bioProject.deps.json
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\bin\Debug\netcoreapp3.1\bioProject.runtimeconfig.json
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\bin\Debug\netcoreapp3.1\bioProject.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\bin\Debug\netcoreapp3.1\bioProject.dll
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\bin\Debug\netcoreapp3.1\bioProject.pdb
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject_MarkupCompile.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject_MarkupCompile.lref
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.g.resources
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.dll
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.pdb
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.genruntimeconfig.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject\bioProject\obj\Debug\netcoreapp3.1\bioProject.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\bin\Debug\netcoreapp3.1\bioProject.exe
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\bin\Debug\netcoreapp3.1\bioProject.deps.json
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\bin\Debug\netcoreapp3.1\bioProject.runtimeconfig.json
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\bin\Debug\netcoreapp3.1\bioProject.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\bin\Debug\netcoreapp3.1\bioProject.dll
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\bin\Debug\netcoreapp3.1\bioProject.pdb
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject_MarkupCompile.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject_MarkupCompile.lref
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.g.resources
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.dll
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.pdb
+C:\Users\Ryan\Desktop\bioFinal\bioProject(Visual Studio)\bioProject\obj\Debug\netcoreapp3.1\bioProject.genruntimeconfig.cache

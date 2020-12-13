@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JfjOEAx+OkFoNX3ROc6nmUa38Twrvi/Vk2qH2IE/CvhHarFM1IUEklqa2l6D6Vq5L8PzLAWHCvjvUtdsd4eeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan\\Desktop\\bioFinal\\bioProject(Visual Studio)\\bioProject\\bioProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
